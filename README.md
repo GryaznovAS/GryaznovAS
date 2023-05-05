@@ -1,6 +1,6 @@
 <img src="resources/text-logo.png" alt="GryaznovAS" style="max-width: 100%;">
 
-<div align="justify">
+<div align="center">
 
 <a href="https://github.com/GryaznovAS">
 <img src="https://img.shields.io/badge/GitHub-BF8C4A?style=for-the-badge&logo=GitHub&logoColor=white">
